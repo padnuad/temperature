@@ -9,8 +9,8 @@ const char* ssid     = "My Wireless Network 2_1";
 const char* password = "";
 
 #define APPID   "TemperHum"
-#define KEY     "ifU2ScYSNQ041Js"
-#define SECRET  "wJ5zGnnH97l6wFP3jgOiZYmOb"
+#define KEY     ""
+#define SECRET  ""
 #define ALIAS   "ppop"
 
 WiFiClient client;
